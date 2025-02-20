@@ -6,9 +6,9 @@ Hello
 ## test2
 Hello World
 
-[]check1
-[]check2
-[]check3
--list1
--list2
--list3
+[] check1
+[] check2
+[] check3
+- list1
+- list2
+- list3
